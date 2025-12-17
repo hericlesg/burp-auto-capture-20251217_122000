@@ -1,0 +1,13 @@
+GET /esportivabetbr/?sid=1a270455-988d-3071-2e40-c8022e359844&t_tid=586e20ec-5b84-1b6f-35d1-2229bb64e2eb&t_dp=&wid=&par=&ref=&t_t=&t_if=0&t_s=&ih=935&iw=1193&if_p=&s_w=2560&s_h=1080&land=https%3A%2F%2Fesportiva.bet.br%2F HTTP/2
+Host: hitbr.acstat.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0
+Accept: */*
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Referer: https://esportiva.bet.br/
+Origin: https://esportiva.bet.br
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: cross-site
+Te: trailers
+
