@@ -1,0 +1,14 @@
+GET /api/widget/GetFavouritesChamps?culture=pt-BR&timezoneOffset=180&integration=esportiva&deviceType=1&numFormat=en-GB HTTP/2
+Host: sb2frontend-altenar2.biahosted.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0
+Accept: */*
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Referer: https://esportiva.bet.br/
+Origin: https://esportiva.bet.br
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: cross-site
+Priority: u=4
+Te: trailers
+
