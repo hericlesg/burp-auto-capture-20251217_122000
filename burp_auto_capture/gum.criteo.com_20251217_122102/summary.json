@@ -1,0 +1,15 @@
+{
+  "capture_timestamp": "20251217_122102", 
+  "requests": [
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/gum.criteo.com_20251217_122102/request_001.txt", 
+      "url": "https://gum.criteo.com:443/syncframe?topUrl=www.zeroum.bet&origin=onetag", 
+      "sequence_number": 1, 
+      "response_file": "burp_auto_capture/gum.criteo.com_20251217_122102/response_001.txt", 
+      "timestamp": 1765954361049
+    }
+  ], 
+  "host": "gum.criteo.com", 
+  "total_requests": 1
+}
