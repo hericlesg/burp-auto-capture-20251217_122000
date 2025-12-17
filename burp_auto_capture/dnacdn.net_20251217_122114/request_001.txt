@@ -1,0 +1,16 @@
+GET /dna HTTP/1.1
+Host: dnacdn.net
+Cookie: browser_data=MF8gP19pSG9MTmh5TEN3MnpDamFNcDc5Q2JNSDRveWQ2OXBzU3lVcGclMkJ3eVh5ZllDNXZKR282OVVzSWY4ZGd1MjFmNWExU0ZBMTJOMFc2cnhsVWsxSHhUZ3J3JTNEJTNE
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0
+Accept: */*
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Referer: https://gum.criteo.com/
+Origin: https://gum.criteo.com
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: cross-site
+Priority: u=6
+Te: trailers
+Connection: close
+
