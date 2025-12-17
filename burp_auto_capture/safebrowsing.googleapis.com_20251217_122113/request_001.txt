@@ -1,0 +1,15 @@
+GET /v4/threatListUpdates:fetch?$ct=application/x-protobuf&key=AIzaSyC7jsptDS3am4tPx4r3nxis7IMjBc5Dovo&$httpMethod=POST&$req=ChUKE25hdmNsaWVudC1hdXRvLWZmb3gaJwgFEAEaGwoNCAUQBhgBIgMwMDEwARCkgB4aAhgLF6WBpCICIAIoARonCAEQARobCg0IARAGGAEiAzAwMTABEJCnExoCGAvwDl9jIgIgAigBGicIAxABGhsKDQgDEAYYASIDMDAxMAEQtp8TGgIYC_hVzBkiAiACKAEaJwgHEAEaGwoNCAcQBhgBIgMwMDEwARCerxMaAhgL67E_kyICIAIoARolCAkQARoZCg0ICRAGGAEiAzAwMTABECQaAhgL2HbCfyICIAIoAQ== HTTP/2
+Host: safebrowsing.googleapis.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0
+Accept: */*
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+X-Http-Method-Override: POST
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: none
+Priority: u=4
+Pragma: no-cache
+Cache-Control: no-cache
+Te: trailers
+
