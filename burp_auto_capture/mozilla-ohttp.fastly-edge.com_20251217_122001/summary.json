@@ -1,0 +1,23 @@
+{
+  "capture_timestamp": "20251217_122001", 
+  "requests": [
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/mozilla-ohttp.fastly-edge.com_20251217_122001/request_001.txt", 
+      "url": "https://mozilla-ohttp.fastly-edge.com:443/", 
+      "sequence_number": 1, 
+      "response_file": "burp_auto_capture/mozilla-ohttp.fastly-edge.com_20251217_122001/response_001.txt", 
+      "timestamp": 1765954365894
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/mozilla-ohttp.fastly-edge.com_20251217_122001/request_002.txt", 
+      "url": "https://mozilla-ohttp.fastly-edge.com:443/", 
+      "sequence_number": 2, 
+      "response_file": "burp_auto_capture/mozilla-ohttp.fastly-edge.com_20251217_122001/response_002.txt", 
+      "timestamp": 1765954414143
+    }
+  ], 
+  "host": "mozilla-ohttp.fastly-edge.com", 
+  "total_requests": 2
+}
