@@ -1,0 +1,47 @@
+{
+  "capture_timestamp": "20251217_122106", 
+  "requests": [
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/sb2bethistory-gateway-altenar2.biahosted.com_20251217_122106/request_001.txt", 
+      "url": "https://sb2bethistory-gateway-altenar2.biahosted.com:443/api/WidgetReports/GetOpenBetsCount", 
+      "sequence_number": 1, 
+      "response_file": "burp_auto_capture/sb2bethistory-gateway-altenar2.biahosted.com_20251217_122106/response_001.txt", 
+      "timestamp": 1765951608281
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/sb2bethistory-gateway-altenar2.biahosted.com_20251217_122106/request_002.txt", 
+      "url": "https://sb2bethistory-gateway-altenar2.biahosted.com:443/api/WidgetReports/GetOpenBetsCount", 
+      "sequence_number": 2, 
+      "response_file": "burp_auto_capture/sb2bethistory-gateway-altenar2.biahosted.com_20251217_122106/response_002.txt", 
+      "timestamp": 1765951687950
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/sb2bethistory-gateway-altenar2.biahosted.com_20251217_122106/request_003.txt", 
+      "url": "https://sb2bethistory-gateway-altenar2.biahosted.com:443/api/WidgetReports/GetOpenBetsCount", 
+      "sequence_number": 3, 
+      "response_file": "burp_auto_capture/sb2bethistory-gateway-altenar2.biahosted.com_20251217_122106/response_003.txt", 
+      "timestamp": 1765954738679
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/sb2bethistory-gateway-altenar2.biahosted.com_20251217_122106/request_004.txt", 
+      "url": "https://sb2bethistory-gateway-altenar2.biahosted.com:443/api/WidgetReports/GetOpenBetsCount", 
+      "sequence_number": 4, 
+      "response_file": "burp_auto_capture/sb2bethistory-gateway-altenar2.biahosted.com_20251217_122106/response_004.txt", 
+      "timestamp": 1765954829542
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/sb2bethistory-gateway-altenar2.biahosted.com_20251217_122106/request_005.txt", 
+      "url": "https://sb2bethistory-gateway-altenar2.biahosted.com:443/api/WidgetReports/widgetBetHistory", 
+      "sequence_number": 5, 
+      "response_file": "burp_auto_capture/sb2bethistory-gateway-altenar2.biahosted.com_20251217_122106/response_005.txt", 
+      "timestamp": 1765954903129
+    }
+  ], 
+  "host": "sb2bethistory-gateway-altenar2.biahosted.com", 
+  "total_requests": 5
+}
