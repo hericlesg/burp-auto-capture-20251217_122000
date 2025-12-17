@@ -1,0 +1,15 @@
+GET /newidsd HTTP/1.1
+Host: gem.gbc.criteo.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0
+Accept: */*
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Referer: https://gum.criteo.com/
+Origin: https://gum.criteo.com
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: same-site
+Priority: u=6
+Te: trailers
+Connection: close
+
