@@ -1,0 +1,11 @@
+HTTP/2 200 OK
+Date: Wed, 17 Dec 2025 06:06:45 GMT
+Content-Type: application/json; charset=utf-8
+Server: cloudflare
+Access-Control-Allow-Origin: *
+Strict-Transport-Security: max-age=2592000; includeSubDomains
+Vary: Accept-Encoding
+Cf-Cache-Status: DYNAMIC
+Cf-Ray: 9af43c7b9de8e0e5-GIG
+
+{"netWins":true,"minPrice":1.2,"excludedMarketIds":[73399,73400,73401,73402,73403,73404,73898,73899,73900,73901,73991,73992,73993,73994,73995,73996,75607,75608,75609],"excludedSportIds":[],"excludedSports":[70,88],"excludedVirtualSports":[17,18,19,20,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,40,41,42,44,45,46,47,48,49],"excludedChampIds":[],"bonuses":[{"value":1.0300,"lowBound":2,"topBound":2},{"value":1.0500,"lowBound":3,"topBound":3},{"value":1.0750,"lowBound":4,"topBound":4},{"value":1.1000,"lowBound":5,"topBound":5},{"value":1.1250,"lowBound":6,"topBound":6},{"value":1.1500,"lowBound":7,"topBound":7},{"value":1.2000,"lowBound":8,"topBound":8},{"value":1.2500,"lowBound":9,"topBound":9},{"value":1.3000,"lowBound":10,"topBound":30}]}
