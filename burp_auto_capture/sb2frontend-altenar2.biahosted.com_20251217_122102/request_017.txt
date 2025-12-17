@@ -1,0 +1,15 @@
+GET /api/BetCards/GetBetCards?culture=pt-BR&timezoneOffset=180&integration=esportiva&deviceType=1&numFormat=en-GB&countryCode=BR&betCardListId=259&sportId=0&regDate=2025-12-17T06%3A06%3A45.2314262Z HTTP/2
+Host: sb2frontend-altenar2.biahosted.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0
+Accept: */*
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Referer: https://esportiva.bet.br/
+Origin: https://esportiva.bet.br
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: cross-site
+Authorization: V2xoc1MyRkhTa2haTW14UVlWVndTbFpZY0VwTlZUVndVMWhPU21Kc1NURlpNRTVLVG10c2NtTkdhRmRSTUc4MVRHMVdOVk51UW1wUk1Hc3lVMWR3Ums1Vk1WUk9TR2hPWVd0V01WUlhjRUpPVlhoeFVsaG9VRkV3YkhwVFZ6RlRaRzFLV0ZKdVFtbGhWV3N5VTFjeGIwMUhVa2xSYm5CUVlWUm9NbGRzYUU5a01rbDZVMnBDYUZkR2NHOVVSekZMWWtkU1JFNVhiR3BoVld4NlUxY3hjMlJYVWtoV2JUVnFZbFZaZDFsV1l6VmtWV3h4WWpKc1lWZEZOVE5aYWs1TFRVZEdXVmR0YUVwaFdHUndXa1pvVDJKSFRuSlNiVFZoVm5wVmQxTlhjSFpoVmxKWVQxUmFhRll6YUhwWFZrMDBUVlY0Y1ZGWFpFeFNiVkozV1cweFUyUnRVWHBVVjJSVllrWkdibFJXVWtKa1ZURkZZekprVjAxdGVERlViWEJTVGpCc1NWcDZTazlTU0U1dVdUSTFXazVyTVZWVlZFcE5ZV3RHZDFOVlZtdGlSbXQ1WkVoYVRXVnJiRE5VVmxKQ1pEQXhWVkZZYUVwU1ZuQjNXVEl4VjJKWFNYcGFNMXBPVmtaRmVWUkhjRUpoVlhoRVUyNWFhbVZWYXpKVFYyeEtZekJzZEZacVVtcFJNR3N5VkZaU2FrMXJOVlZoZWtaUFZrVnNNMVJVVFhkTWJXeE1UakI0UlZGVVFrWlZhM2hMVlRJNVUxSlhSa1ppTWs0MFkxWndlR0pFWXpGVFJGWlhZVzVOTVZKVldUSlllbWhoWTJwR1NWSlZNRDA9
+Priority: u=4
+Te: trailers
+
