@@ -1,0 +1,15 @@
+HTTP/2 200 OK
+Content-Type: application/json; charset=utf-8
+Date: Wed, 17 Dec 2025 06:53:05 GMT
+Server: Kestrel
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Methods: GET
+Access-Control-Allow-Origin: https://gum.criteo.com
+Cache-Control: no-cache, no-store, must-revalidate
+Expires: 0
+Pragma: no-cache
+Server-Processing-Duration-In-Ticks: 175330
+Strict-Transport-Security: max-age=31536000; preload;
+Vary: Accept-Encoding
+
+{"idsd":83622313,"idsdctx":"zRS0gHw1NlNxM1c1ZVNkTWVSZUw4RHNUYjErdDgyZ2swaHBnU1BVUU8yWlVJMnYwPXw"}
